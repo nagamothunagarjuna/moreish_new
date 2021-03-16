@@ -1,0 +1,38 @@
+.sec-one {
+	height: 90vh;
+	width: 90%;
+    margin: 0px auto;
+}
+.sec-two {
+	height: 10vh;
+}
+.sec-one-empty {
+	height: 4%;
+}
+.sec-one-head {
+	color: #C00037;
+	font-weight: 600;
+	font-size: 30px;
+	margin: 0px;
+}
+.sec-one-para {
+	color: #8C8C8C;
+	font-size: 15px;
+	margin: 0px;
+}
+.all-items {
+    margin-top: 20px;
+}
+.qty {
+    margin: 0px 5px;
+    vertical-align: sub;
+    font-weight: 600 !important;
+}
+.items-table tr td {
+    color: #393943 !important;
+    font-weight: 500;
+    font-size: 15px;
+}
+.price {
+	font-weight: 600 !important;
+}
